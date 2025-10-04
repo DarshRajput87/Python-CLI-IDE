@@ -30,4 +30,4 @@ Supports syntax checking, directory navigation, and built-in CLI commands.
 1. Make sure **Python 3.x** is installed and added to PATH.
 2. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/CompilerCLI.git
+git clone https://github.com/DarshRajput87/Python-CLI-IDE.git
