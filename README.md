@@ -1,6 +1,6 @@
 # CompilerCLI - Python CLI IDE
 
-**Designer / Author:** Diya Desai  
+**Designer / Author:** Darsh Rajput  
 **Version:** 1.0.0
 
 ## Description
